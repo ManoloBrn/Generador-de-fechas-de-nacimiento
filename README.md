@@ -1,4 +1,4 @@
-Generador-de-fechas-de-nacmiento
+Generador de fechas
 ================================
 
 Genera fechas en formato AAMMDD
